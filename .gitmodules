@@ -1,0 +1,3 @@
+[submodule "ipsum"]
+	path = ipsum
+	url = https://github.com/estefanionsantos/ipsum.git
